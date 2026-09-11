@@ -1,0 +1,280 @@
+MatchId,TeamId,TeamName,Role,LineUp,PersonId,ShirtNumber,FirstName,LastName,Shortname,Starting,PlayingPosition,TeamLeader
+DFL-MAT-J03WMX,DFL-CLU-00000G,FC Bayern München,guest,4-2-3-1,DFL-OBJ-0002DR,27,Yann,Sommer,Y. Sommer,true,TW,false
+DFL-MAT-J03WMX,DFL-CLU-00000G,FC Bayern München,guest,4-2-3-1,DFL-OBJ-0000LT,26,Sven,Ulreich,S. Ulreich,false,,false
+DFL-MAT-J03WMX,DFL-CLU-00000G,FC Bayern München,guest,4-2-3-1,DFL-OBJ-0000RP,13,Eric Maxim,Choupo-Moting,E. Choupo-Moting,false,STZ,false
+DFL-MAT-J03WMX,DFL-CLU-00000G,FC Bayern München,guest,4-2-3-1,DFL-OBJ-0000IA,25,Thomas,Müller,T. Müller,true,ZO,true
+DFL-MAT-J03WMX,DFL-CLU-00000G,FC Bayern München,guest,4-2-3-1,DFL-OBJ-J00USE,23,Daley,Blind,D. Blind,false,,false
+DFL-MAT-J03WMX,DFL-CLU-00000G,FC Bayern München,guest,4-2-3-1,DFL-OBJ-000191,8,Leon Christoph,Goretzka,Leon Goretzka,false,DML,false
+DFL-MAT-J03WMX,DFL-CLU-00000G,FC Bayern München,guest,4-2-3-1,DFL-OBJ-J0117H,17,Sadio,Mané,S. Mané,false,,false
+DFL-MAT-J03WMX,DFL-CLU-00000G,FC Bayern München,guest,4-2-3-1,DFL-OBJ-0027G6,7,Serge David,Gnabry,Serge Gnabry,true,STZ,false
+DFL-MAT-J03WMX,DFL-CLU-00000G,FC Bayern München,guest,4-2-3-1,DFL-OBJ-0002F5,6,Joshua Walter,Kimmich,Joshua Kimmich,true,DMR,false
+DFL-MAT-J03WMX,DFL-CLU-00000G,FC Bayern München,guest,4-2-3-1,DFL-OBJ-0026PM,11,Kingsley Junior,Coman,Kingsley Coman,true,OLM,false
+DFL-MAT-J03WMX,DFL-CLU-00000G,FC Bayern München,guest,4-2-3-1,DFL-OBJ-0002AU,10,Leroy Aziz,Sané,Leroy Sané,true,ORM,false
+DFL-MAT-J03WMX,DFL-CLU-00000G,FC Bayern München,guest,4-2-3-1,DFL-OBJ-J015S4,22,Joao Pedro,Cavaco Cancelo,Joao Cancelo,false,DLM,false
+DFL-MAT-J03WMX,DFL-CLU-00000G,FC Bayern München,guest,4-2-3-1,DFL-OBJ-0027KL,2,Dayotchanculle Oswald,Upamecano,Dayot Upamecano,true,IVR,false
+DFL-MAT-J03WMX,DFL-CLU-00000G,FC Bayern München,guest,4-2-3-1,DFL-OBJ-0027G0,5,Benjamin Jacques Marcel,Pavard,Benjamin Pavard,true,RV,false
+DFL-MAT-J03WMX,DFL-CLU-00000G,FC Bayern München,guest,4-2-3-1,DFL-OBJ-J017RE,4,Matthijs,de Ligt,M. de Ligt,true,IVL,false
+DFL-MAT-J03WMX,DFL-CLU-00000G,FC Bayern München,guest,4-2-3-1,DFL-OBJ-J01APO,40,Noussair,Mazraoui,N. Mazraoui,true,LV,false
+DFL-MAT-J03WMX,DFL-CLU-00000G,FC Bayern München,guest,4-2-3-1,DFL-OBJ-J01B8N,38,Ryan Jiro,Gravenberch,Ryan Gravenberch,true,DML,false
+DFL-MAT-J03WMX,DFL-CLU-00000G,FC Bayern München,guest,4-2-3-1,DFL-OBJ-002GIC,44,Josip,Stanišić,J. Stanišić,false,,false
+DFL-MAT-J03WMX,DFL-CLU-00000G,FC Bayern München,guest,4-2-3-1,DFL-OBJ-002GCR,42,Jamal,Musiala,J. Musiala,false,ZO,false
+DFL-MAT-J03WMX,DFL-CLU-00000G,FC Bayern München,guest,4-2-3-1,DFL-OBJ-J01N65,39,Mathys Henri,Tel,Mathys Tel,false,STL,false
+DFL-MAT-J03WMX,DFL-CLU-000008,1. FC Köln,home,4-2-3-1,DFL-OBJ-0027AX,11,Florian,Kainz,F. Kainz,true,ZO,false
+DFL-MAT-J03WMX,DFL-CLU-000008,1. FC Köln,home,4-2-3-1,DFL-OBJ-0000M0,1,Timo Phil,Horn,Timo Horn,false,,false
+DFL-MAT-J03WMX,DFL-CLU-000008,1. FC Köln,home,4-2-3-1,DFL-OBJ-00012X,14,Jonas Armin,Hector,Jonas Hector,true,LV,true
+DFL-MAT-J03WMX,DFL-CLU-000008,1. FC Köln,home,4-2-3-1,DFL-OBJ-000270,27,Davie,Selke,D. Selke,true,STZ,false
+DFL-MAT-J03WMX,DFL-CLU-000008,1. FC Köln,home,4-2-3-1,DFL-OBJ-0002HE,20,Marvin,Schwäbe,M. Schwäbe,true,TW,false
+DFL-MAT-J03WMX,DFL-CLU-000008,1. FC Köln,home,4-2-3-1,DFL-OBJ-0002BO,2,Benno,Schmitz,B. Schmitz,true,RV,false
+DFL-MAT-J03WMX,DFL-CLU-000008,1. FC Köln,home,4-2-3-1,DFL-OBJ-0027V2,17,Kingsley,Schindler,K. Schindler,false,RV,false
+DFL-MAT-J03WMX,DFL-CLU-000008,1. FC Köln,home,4-2-3-1,DFL-OBJ-0027B6,4,Timo Bernd,Hübers,Timo Hübers,true,IVR,false
+DFL-MAT-J03WMX,DFL-CLU-000008,1. FC Köln,home,4-2-3-1,DFL-OBJ-0026ZI,3,Kristian Majdahl,Pedersen,Kristian Pedersen,false,LV,false
+DFL-MAT-J03WMX,DFL-CLU-000008,1. FC Köln,home,4-2-3-1,DFL-OBJ-0028BD,37,Linton,Maina,L. Maina,true,OLM,false
+DFL-MAT-J03WMX,DFL-CLU-000008,1. FC Köln,home,4-2-3-1,DFL-OBJ-002GBW,25,Tim,Lemperle,T. Lemperle,false,STZ,false
+DFL-MAT-J03WMX,DFL-CLU-000008,1. FC Köln,home,4-2-3-1,DFL-OBJ-002G89,29,Jan Uwe,Thielmann,Jan Thielmann,false,STZ,false
+DFL-MAT-J03WMX,DFL-CLU-000008,1. FC Köln,home,4-2-3-1,DFL-OBJ-002G4A,28,Ellyes Joris,Skhiri,Ellyes Skhiri,true,DML,false
+DFL-MAT-J03WMX,DFL-CLU-000008,1. FC Köln,home,4-2-3-1,DFL-OBJ-002GLJ,19,Dimitrios,Limnios,D. Limnios,false,,false
+DFL-MAT-J03WMX,DFL-CLU-000008,1. FC Köln,home,4-2-3-1,DFL-OBJ-J01BGM,7,Dejan,Ljubicic,D. Ljubicic,true,ORM,false
+DFL-MAT-J03WMX,DFL-CLU-000008,1. FC Köln,home,4-2-3-1,DFL-OBJ-002G0R,15,Luca Jannis,Kilian,Luca Kilian,false,,false
+DFL-MAT-J03WMX,DFL-CLU-000008,1. FC Köln,home,4-2-3-1,DFL-OBJ-J01D1W,24,Julian Jeffrey Gaston,Chabot,Jeff Chabot,true,IVL,false
+DFL-MAT-J03WMX,DFL-CLU-000008,1. FC Köln,home,4-2-3-1,DFL-OBJ-J01DVC,8,Denis,Huseinbašić,D. Huseinbašić,false,ZO,false
+DFL-MAT-J03WMX,DFL-CLU-000008,1. FC Köln,home,4-2-3-1,DFL-OBJ-002GKO,6,Eric,Martel,E. Martel,true,DMR,false
+DFL-MAT-J03WMX,DFL-CLU-000008,1. FC Köln,home,4-2-3-1,DFL-OBJ-J01LJ2,47,Mathias Flaga,Olesen,Mathias Olesen,false,,false
+DFL-MAT-J03WN1,DFL-CLU-00000B,Bayer 04 Leverkusen,guest,4-2-3-1,DFL-OBJ-0026NY,1,Lukáš,Hrádecký,L. Hrádecký,true,TW,true
+DFL-MAT-J03WN1,DFL-CLU-00000B,Bayer 04 Leverkusen,guest,4-2-3-1,DFL-OBJ-0001UP,4,Jonathan Glao,Tah,Jonathan Tah,true,IVR,false
+DFL-MAT-J03WN1,DFL-CLU-00000B,Bayer 04 Leverkusen,guest,4-2-3-1,DFL-OBJ-J012D8,28,Patrick,Pentz,P. Pentz,false,,false
+DFL-MAT-J03WN1,DFL-CLU-00000B,Bayer 04 Leverkusen,guest,4-2-3-1,DFL-OBJ-J013O2,9,Sardar,Azmoun,S. Azmoun,true,STZ,false
+DFL-MAT-J03WN1,DFL-CLU-00000B,Bayer 04 Leverkusen,guest,4-2-3-1,DFL-OBJ-0002LI,11,Nadiem,Amiri,N. Amiri,true,DML,false
+DFL-MAT-J03WN1,DFL-CLU-00000B,Bayer 04 Leverkusen,guest,4-2-3-1,DFL-OBJ-002G1P,22,Daley,Sinkgraven,D. Sinkgraven,false,,false
+DFL-MAT-J03WN1,DFL-CLU-00000B,Bayer 04 Leverkusen,guest,4-2-3-1,DFL-OBJ-002GNP,24,Evans Timothy,Fosu-Mensah,Timothy Fosu-Mensah,false,,false
+DFL-MAT-J03WN1,DFL-CLU-00000B,Bayer 04 Leverkusen,guest,4-2-3-1,DFL-OBJ-002G02,19,Moussa,Diaby,M. Diaby,true,OLM,false
+DFL-MAT-J03WN1,DFL-CLU-00000B,Bayer 04 Leverkusen,guest,4-2-3-1,DFL-OBJ-002G57,32,Ayman,Azhil,A. Azhil,false,,false
+DFL-MAT-J03WN1,DFL-CLU-00000B,Bayer 04 Leverkusen,guest,4-2-3-1,DFL-OBJ-J01B8R,5,Mitchel,Bakker,M. Bakker,true,LV,false
+DFL-MAT-J03WN1,DFL-CLU-00000B,Bayer 04 Leverkusen,guest,4-2-3-1,DFL-OBJ-002GAR,12,Edmond Fayçal,Tapsoba,Edmond Tapsoba,true,IVL,false
+DFL-MAT-J03WN1,DFL-CLU-00000B,Bayer 04 Leverkusen,guest,4-2-3-1,DFL-OBJ-002G8H,25,Exequiel Alejandro,Palacios,Exequiel Palacios,true,DMR,false
+DFL-MAT-J03WN1,DFL-CLU-00000B,Bayer 04 Leverkusen,guest,4-2-3-1,DFL-OBJ-002GFO,47,Ayman,Aourir,A. Aourir,false,,false
+DFL-MAT-J03WN1,DFL-CLU-00000B,Bayer 04 Leverkusen,guest,4-2-3-1,DFL-OBJ-002GH4,43,Leon,Köhl,L. Köhl,false,,false
+DFL-MAT-J03WN1,DFL-CLU-00000B,Bayer 04 Leverkusen,guest,4-2-3-1,DFL-OBJ-002GOI,30,Jeremie Agyekum,Frimpong,Jeremie Frimpong,true,RV,false
+DFL-MAT-J03WN1,DFL-CLU-00000B,Bayer 04 Leverkusen,guest,4-2-3-1,DFL-OBJ-002GBK,27,Florian Richard,Wirtz,Florian Wirtz,true,ZO,false
+DFL-MAT-J03WN1,DFL-CLU-00000B,Bayer 04 Leverkusen,guest,4-2-3-1,DFL-OBJ-J01G0J,23,Adam,Hložek,A. Hložek,false,HR,false
+DFL-MAT-J03WN1,DFL-CLU-00000B,Bayer 04 Leverkusen,guest,4-2-3-1,DFL-OBJ-J01K4C,18,Noah,Mbamba-Muanda,Noah Mbamba,false,DMR,false
+DFL-MAT-J03WN1,DFL-CLU-00000B,Bayer 04 Leverkusen,guest,4-2-3-1,DFL-OBJ-J01KDN,21,Amine,Adli,A. Adli,true,ORM,false
+DFL-MAT-J03WN1,DFL-CLU-00000B,Bayer 04 Leverkusen,guest,4-2-3-1,DFL-OBJ-J01QRV,31,Madi,Monamay Nsosemo,Madi Monamay,false,,false
+DFL-MAT-J03WN1,DFL-CLU-00000S,VfL Bochum 1848,home,4-3-3 Double-6,DFL-OBJ-0001I0,1,Manuel,Riemann-Lorenzen,Manuel Riemann,true,TW,false
+DFL-MAT-J03WN1,DFL-CLU-00000S,VfL Bochum 1848,home,4-3-3 Double-6,DFL-OBJ-00002Z,9,Simon,Zoller,S. Zoller,false,RA,false
+DFL-MAT-J03WN1,DFL-CLU-00000S,VfL Bochum 1848,home,4-3-3 Double-6,DFL-OBJ-002G6G,2,Cristian Esteban,Gamboa Luna,Cristian Gamboa,false,,false
+DFL-MAT-J03WN1,DFL-CLU-00000S,VfL Bochum 1848,home,4-3-3 Double-6,DFL-OBJ-00003J,21,Michael,Esser,M. Esser,false,,false
+DFL-MAT-J03WN1,DFL-CLU-00000S,VfL Bochum 1848,home,4-3-3 Double-6,DFL-OBJ-000172,7,Kevin,Stöger,K. Stöger,true,DML,false
+DFL-MAT-J03WN1,DFL-CLU-00000S,VfL Bochum 1848,home,4-3-3 Double-6,DFL-OBJ-0000YV,33,Philipp,Hofmann,P. Hofmann,true,STZ,false
+DFL-MAT-J03WN1,DFL-CLU-00000S,VfL Bochum 1848,home,4-3-3 Double-6,DFL-OBJ-0000XU,30,Dominique,Heintz,D. Heintz,true,LV,false
+DFL-MAT-J03WN1,DFL-CLU-00000S,VfL Bochum 1848,home,4-3-3 Double-6,DFL-OBJ-000199,8,Anthony,Losilla,A. Losilla,true,DMR,true
+DFL-MAT-J03WN1,DFL-CLU-00000S,VfL Bochum 1848,home,4-3-3 Double-6,DFL-OBJ-0001WB,3,Danilo Teodoro,Soares,Danilo Soares,false,,false
+DFL-MAT-J03WN1,DFL-CLU-00000S,VfL Bochum 1848,home,4-3-3 Double-6,DFL-OBJ-J014F7,20,Ivan,Ordets,I. Ordets,true,IVR,false
+DFL-MAT-J03WN1,DFL-CLU-00000S,VfL Bochum 1848,home,4-3-3 Double-6,DFL-OBJ-0025J8,17,Gerrit,Holtmann,G. Holtmann,false,,false
+DFL-MAT-J03WN1,DFL-CLU-00000S,VfL Bochum 1848,home,4-3-3 Double-6,DFL-OBJ-J016C3,23,Saidy,Janko,S. Janko,true,RV,false
+DFL-MAT-J03WN1,DFL-CLU-00000S,VfL Bochum 1848,home,4-3-3 Double-6,DFL-OBJ-0027FG,11,Takuma,Asano,T. Asano,true,RA,false
+DFL-MAT-J03WN1,DFL-CLU-00000S,VfL Bochum 1848,home,4-3-3 Double-6,DFL-OBJ-0027LO,10,Philipp,Förster,P. Förster,true,ZO,false
+DFL-MAT-J03WN1,DFL-CLU-00000S,VfL Bochum 1848,home,4-3-3 Double-6,DFL-OBJ-0028NB,22,Christopher,Antwi-Adjei,C. Antwi-Adjei,true,LA,false
+DFL-MAT-J03WN1,DFL-CLU-00000S,VfL Bochum 1848,home,4-3-3 Double-6,DFL-OBJ-0028D6,31,Keven,Schlotterbeck,K. Schlotterbeck,false,LV,false
+DFL-MAT-J03WN1,DFL-CLU-00000S,VfL Bochum 1848,home,4-3-3 Double-6,DFL-OBJ-002GAV,24,Vasileios-Konstantinos,Lampropoulos,Vasileios Lampropoulos,false,DML,false
+DFL-MAT-J03WN1,DFL-CLU-00000S,VfL Bochum 1848,home,4-3-3 Double-6,DFL-OBJ-J01AQV,29,Moritz,Broschinski,M. Broschinski,false,STZ,false
+DFL-MAT-J03WN1,DFL-CLU-00000S,VfL Bochum 1848,home,4-3-3 Double-6,DFL-OBJ-002GM0,4,Erhan,Mašović,E. Mašović,true,IVL,false
+DFL-MAT-J03WN1,DFL-CLU-00000S,VfL Bochum 1848,home,4-3-3 Double-6,DFL-OBJ-002G4G,6,Patrick,Osterhage,P. Osterhage,false,DML,false
+DFL-MAT-J03WOH,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-00008K,28,Rouwen,Hennings,R. Hennings,false,STZ,false
+DFL-MAT-J03WOH,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-000170,1,Raphael,Wolf,R. Wolf,false,,false
+DFL-MAT-J03WOH,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-00003X,10,Daniel,Ginczek,D. Ginczek,true,STZ,false
+DFL-MAT-J03WOH,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-0000NZ,25,Matthias Jürgen,Zimmermann,Matthias Zimmermann,true,RV,false
+DFL-MAT-J03WOH,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-00006V,3,André,Hoffmann,A. Hoffmann,true,IVR,true
+DFL-MAT-J03WOH,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-0000F8,11,Felix,Klaus,F. Klaus,true,ORM,false
+DFL-MAT-J03WOH,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-J0130T,29,Jorrit Petrus Carolina,Hendrix,Jorrit Hendrix,true,DML,false
+DFL-MAT-J03WOH,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-00028V,31,Marcel,Sobottka,M. Sobottka,true,DMR,false
+DFL-MAT-J03WOH,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-J014UG,30,Jordy Adriana Jozefina,de Wijs,Jordy de Wijs,true,IVL,false
+DFL-MAT-J03WOH,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-002FXT,9,Dawid Igor,Kownacki,Dawid Kownacki,true,ZO,false
+DFL-MAT-J03WOH,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-0026RH,19,Emmanuel,Iyoha,E. Iyoha,false,ZO,false
+DFL-MAT-J03WOH,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-0028FW,33,Florian,Kastenmeier,F. Kastenmeier,true,TW,false
+DFL-MAT-J03WOH,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-J01CP5,34,Nicolas,Gavory,N. Gavory,true,LV,false
+DFL-MAT-J03WOH,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-002G5J,23,Shinta Karl,Appelkamp,Shinta Appelkamp,false,OLM,false
+DFL-MAT-J03WOH,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-002GMO,15,Tim Christopher,Oberdorf,Tim Oberdorf,false,,false
+DFL-MAT-J03WOH,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-002GM1,7,Kristoffer Paul,Peterson,Kristoffer Peterson,true,OLM,false
+DFL-MAT-J03WOH,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-002GM9,5,Christoph,Klarer,C. Klarer,false,IVR,false
+DFL-MAT-J03WOH,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-J01H9X,4,Ao,Tanaka,A. Tanaka,false,,false
+DFL-MAT-J03WOH,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-J01KJ5,8,Michal,Karbownik,M. Karbownik,false,,false
+DFL-MAT-J03WOH,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-J01L1F,14,Kwadwo Kyeremeh,Baah,Kwadwo Baah,false,ORM,false
+DFL-MAT-J03WOH,DFL-CLU-000011,SSV Jahn Regensburg,guest,4-2-3-1,DFL-OBJ-0026UQ,20,Leon,Guwara,L. Guwara,true,LV,false
+DFL-MAT-J03WOH,DFL-CLU-000011,SSV Jahn Regensburg,guest,4-2-3-1,DFL-OBJ-002651,5,Benedikt Steffen,Gimber,Benedikt Gimber,true,DMR,true
+DFL-MAT-J03WOH,DFL-CLU-000011,SSV Jahn Regensburg,guest,4-2-3-1,DFL-OBJ-0027XP,29,Joshua,Mees,J. Mees,true,OLM,false
+DFL-MAT-J03WOH,DFL-CLU-000011,SSV Jahn Regensburg,guest,4-2-3-1,DFL-OBJ-00268T,23,Steve,Breitkreuz,S. Breitkreuz,true,IVR,false
+DFL-MAT-J03WOH,DFL-CLU-000011,SSV Jahn Regensburg,guest,4-2-3-1,DFL-OBJ-0028OR,9,Prince Osei,Owusu,P. Owusu,false,STL,false
+DFL-MAT-J03WOH,DFL-CLU-000011,SSV Jahn Regensburg,guest,4-2-3-1,DFL-OBJ-0027B0,7,Nicklas,Shipnoski,N. Shipnoski,true,ORM,false
+DFL-MAT-J03WOH,DFL-CLU-000011,SSV Jahn Regensburg,guest,4-2-3-1,DFL-OBJ-002GNH,1,Dejan,Stojanovic,D. Stojanovic,true,TW,false
+DFL-MAT-J03WOH,DFL-CLU-000011,SSV Jahn Regensburg,guest,4-2-3-1,DFL-OBJ-002850,32,Alexander,Weidinger,A. Weidinger,false,,false
+DFL-MAT-J03WOH,DFL-CLU-000011,SSV Jahn Regensburg,guest,4-2-3-1,DFL-OBJ-0027VS,8,Maximilian,Thalhammer,M. Thalhammer,true,DML,false
+DFL-MAT-J03WOH,DFL-CLU-000011,SSV Jahn Regensburg,guest,4-2-3-1,DFL-OBJ-0027P7,30,Christian,Viet,C. Viet,false,ORM,false
+DFL-MAT-J03WOH,DFL-CLU-000011,SSV Jahn Regensburg,guest,4-2-3-1,DFL-OBJ-0028CD,26,Charalambos,Makridis,C. Makridis,false,ORM,false
+DFL-MAT-J03WOH,DFL-CLU-000011,SSV Jahn Regensburg,guest,4-2-3-1,DFL-OBJ-002GAB,18,Aygün,Yildirim,A. Yildirim,true,STZ,false
+DFL-MAT-J03WOH,DFL-CLU-000011,SSV Jahn Regensburg,guest,4-2-3-1,DFL-OBJ-0028SW,11,Konrad,Faber,K. Faber,true,RV,false
+DFL-MAT-J03WOH,DFL-CLU-000011,SSV Jahn Regensburg,guest,4-2-3-1,DFL-OBJ-002G2Y,19,Andreas,Albers Nielsen,Andreas Albers,true,ZO,false
+DFL-MAT-J03WOH,DFL-CLU-000011,SSV Jahn Regensburg,guest,4-2-3-1,DFL-OBJ-J01CN9,27,Lasse,Günther,L. Günther,false,,false
+DFL-MAT-J03WOH,DFL-CLU-000011,SSV Jahn Regensburg,guest,4-2-3-1,DFL-OBJ-002GDZ,10,Kaan,Caliskaner,K. Caliskaner,false,STR,false
+DFL-MAT-J03WOH,DFL-CLU-000011,SSV Jahn Regensburg,guest,4-2-3-1,DFL-OBJ-002GEE,33,Jan,Elvedi,J. Elvedi,true,IVL,false
+DFL-MAT-J03WOH,DFL-CLU-000011,SSV Jahn Regensburg,guest,4-2-3-1,DFL-OBJ-J01FDY,22,Minos,Gouras,M. Gouras,false,,false
+DFL-MAT-J03WOH,DFL-CLU-000011,SSV Jahn Regensburg,guest,4-2-3-1,DFL-OBJ-002GFH,24,Scott Fitzgerald,Kennedy,Scott Kennedy,false,LV,false
+DFL-MAT-J03WOY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-000170,1,Raphael,Wolf,R. Wolf,false,,false
+DFL-MAT-J03WOY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-0000NZ,25,Matthias Jürgen,Zimmermann,Matthias Zimmermann,true,RV,false
+DFL-MAT-J03WOY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-0000F8,11,Felix,Klaus,F. Klaus,true,ORM,false
+DFL-MAT-J03WOY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-J0130T,29,Jorrit Petrus Carolina,Hendrix,Jorrit Hendrix,false,DML,false
+DFL-MAT-J03WOY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-00028V,31,Marcel,Sobottka,M. Sobottka,true,DMR,true
+DFL-MAT-J03WOY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-002FXT,9,Dawid Igor,Kownacki,Dawid Kownacki,true,STZ,false
+DFL-MAT-J03WOY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-0026RH,19,Emmanuel,Iyoha,E. Iyoha,false,STZ,false
+DFL-MAT-J03WOY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-0028FW,33,Florian,Kastenmeier,F. Kastenmeier,true,TW,false
+DFL-MAT-J03WOY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-002G5J,23,Shinta Karl,Appelkamp,Shinta Appelkamp,true,ZO,false
+DFL-MAT-J03WOY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-J01D0C,47,Niko,Vukančić,N. Vukančić,false,,false
+DFL-MAT-J03WOY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-002GMO,15,Tim Christopher,Oberdorf,Tim Oberdorf,true,IVR,false
+DFL-MAT-J03WOY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-002GM1,7,Kristoffer Paul,Peterson,Kristoffer Peterson,true,OLM,false
+DFL-MAT-J03WOY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-002GM9,5,Christoph,Klarer,C. Klarer,true,IVL,false
+DFL-MAT-J03WOY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-J01H9X,4,Ao,Tanaka,A. Tanaka,true,DML,false
+DFL-MAT-J03WOY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-J01JQC,35,Daniel,Bunk,D. Bunk,false,ZO,false
+DFL-MAT-J03WOY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-J01KE3,37,David,Savic,D. Savic,false,,false
+DFL-MAT-J03WOY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-J01KJ5,8,Michal,Karbownik,M. Karbownik,true,LV,false
+DFL-MAT-J03WOY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-J01L1F,14,Kwadwo Kyeremeh,Baah,Kwadwo Baah,false,ORM,false
+DFL-MAT-J03WOY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-J01NQ8,46,Elione,Fernandes Neto,E. Fernandes Neto,false,OLM,false
+DFL-MAT-J03WOY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-J01PRX,45,Tom,Geerkens,T. Geerkens,false,,false
+DFL-MAT-J03WOY,DFL-CLU-00000Q,F.C. Hansa Rostock,guest,3-3-2-2,DFL-OBJ-0028JQ,9,Ridge,Munsy,R. Munsy,false,STZ,false
+DFL-MAT-J03WOY,DFL-CLU-00000Q,F.C. Hansa Rostock,guest,3-3-2-2,DFL-OBJ-002FZB,1,Markus,Kolke,M. Kolke,true,TW,true
+DFL-MAT-J03WOY,DFL-CLU-00000Q,F.C. Hansa Rostock,guest,3-3-2-2,DFL-OBJ-0002GW,22,Lukas,Hinterseer,L. Hinterseer,false,,false
+DFL-MAT-J03WOY,DFL-CLU-00000Q,F.C. Hansa Rostock,guest,3-3-2-2,DFL-OBJ-0028IJ,39,Pascal,Breier,P. Breier,false,OLM,false
+DFL-MAT-J03WOY,DFL-CLU-00000Q,F.C. Hansa Rostock,guest,3-3-2-2,DFL-OBJ-00019R,18,John,Verhoek,J. Verhoek,true,STL,false
+DFL-MAT-J03WOY,DFL-CLU-00000Q,F.C. Hansa Rostock,guest,3-3-2-2,DFL-OBJ-0001IG,7,Nico,Neidhart,N. Neidhart,true,DRM,false
+DFL-MAT-J03WOY,DFL-CLU-00000Q,F.C. Hansa Rostock,guest,3-3-2-2,DFL-OBJ-0001CF,25,Thomas,Meißner,T. Meißner,false,IVR,false
+DFL-MAT-J03WOY,DFL-CLU-00000Q,F.C. Hansa Rostock,guest,3-3-2-2,DFL-OBJ-0002IR,4,Damian,Roßbach,D. Roßbach,false,,false
+DFL-MAT-J03WOY,DFL-CLU-00000Q,F.C. Hansa Rostock,guest,3-3-2-2,DFL-OBJ-002FXA,19,Kai,Pröger,K. Pröger,true,STR,false
+DFL-MAT-J03WOY,DFL-CLU-00000Q,F.C. Hansa Rostock,guest,3-3-2-2,DFL-OBJ-J0153J,20,Lukas,Scherff,L. Scherff,false,,false
+DFL-MAT-J03WOY,DFL-CLU-00000Q,F.C. Hansa Rostock,guest,3-3-2-2,DFL-OBJ-0025BB,34,Lukas Thomas,Fröde,Lukas Fröde,true,IVZ,false
+DFL-MAT-J03WOY,DFL-CLU-00000Q,F.C. Hansa Rostock,guest,3-3-2-2,DFL-OBJ-00264V,23,Nils-Jonathan,Körber,Nils Körber,false,,false
+DFL-MAT-J03WOY,DFL-CLU-00000Q,F.C. Hansa Rostock,guest,3-3-2-2,DFL-OBJ-0026ZT,21,Anderson-Lenda,Lucoqui,Anderson Lucoqui,true,DLM,false
+DFL-MAT-J03WOY,DFL-CLU-00000Q,F.C. Hansa Rostock,guest,3-3-2-2,DFL-OBJ-J0196K,6,Dennis,Dressel,D. Dressel,true,DMZ,false
+DFL-MAT-J03WOY,DFL-CLU-00000Q,F.C. Hansa Rostock,guest,3-3-2-2,DFL-OBJ-00286X,5,Rick,van Drongelen,R. van Drongelen,true,IVL,false
+DFL-MAT-J03WOY,DFL-CLU-00000Q,F.C. Hansa Rostock,guest,3-3-2-2,DFL-OBJ-0028KZ,27,Kangni Frederic,Ananou,Frederic Ananou,true,IVR,false
+DFL-MAT-J03WOY,DFL-CLU-00000Q,F.C. Hansa Rostock,guest,3-3-2-2,DFL-OBJ-002GLL,14,Svante Ulf,Ingel Ingelsson,Svante Ingelsson,true,HL,false
+DFL-MAT-J03WOY,DFL-CLU-00000Q,F.C. Hansa Rostock,guest,3-3-2-2,DFL-OBJ-J01GG9,17,Dong-gyeong,Lee,D. Lee,false,HL,false
+DFL-MAT-J03WOY,DFL-CLU-00000Q,F.C. Hansa Rostock,guest,3-3-2-2,DFL-OBJ-J01KGY,29,Sebastien,Thill,S. Thill,true,HR,false
+DFL-MAT-J03WOY,DFL-CLU-00000Q,F.C. Hansa Rostock,guest,3-3-2-2,DFL-OBJ-J01MF0,15,Nils Gustav Georg,Fröling,Nils Fröling,false,ORM,false
+DFL-MAT-J03WPY,DFL-CLU-000005,1. FC Nürnberg,guest,4-1-3-2,DFL-OBJ-0001BX,22,Enrico,Valentini,E. Valentini,false,RV,false
+DFL-MAT-J03WPY,DFL-CLU-000005,1. FC Nürnberg,guest,4-1-3-2,DFL-OBJ-00008F,16,Christopher Wolfgang Georg August,Schindler,Christopher Schindler,true,IVR,true
+DFL-MAT-J03WPY,DFL-CLU-000005,1. FC Nürnberg,guest,4-1-3-2,DFL-OBJ-0000EJ,5,Johannes,Geis,J. Geis,true,DMZ,false
+DFL-MAT-J03WPY,DFL-CLU-000005,1. FC Nürnberg,guest,4-1-3-2,DFL-OBJ-0001HW,26,Christian,Mathenia,C. Mathenia,true,TW,false
+DFL-MAT-J03WPY,DFL-CLU-000005,1. FC Nürnberg,guest,4-1-3-2,DFL-OBJ-0001LJ,28,Jan Kwasi,Gyamerah,Jan Gyamerah,true,RV,false
+DFL-MAT-J03WPY,DFL-CLU-000005,1. FC Nürnberg,guest,4-1-3-2,DFL-OBJ-00265W,20,Pascal,Köpke,P. Köpke,false,,false
+DFL-MAT-J03WPY,DFL-CLU-000005,1. FC Nürnberg,guest,4-1-3-2,DFL-OBJ-002595,10,Mats,Møller Dæhli,M. Møller Dæhli,true,OLM,false
+DFL-MAT-J03WPY,DFL-CLU-000005,1. FC Nürnberg,guest,4-1-3-2,DFL-OBJ-002G5E,1,Carl,Klaus,C. Klaus,false,,false
+DFL-MAT-J03WPY,DFL-CLU-000005,1. FC Nürnberg,guest,4-1-3-2,DFL-OBJ-0026IA,13,Erik,Wekesser,E. Wekesser,false,OLM,false
+DFL-MAT-J03WPY,DFL-CLU-000005,1. FC Nürnberg,guest,4-1-3-2,DFL-OBJ-00286U,18,Manuel Paul,Wintzheimer,Manuel Wintzheimer,false,HL,false
+DFL-MAT-J03WPY,DFL-CLU-000005,1. FC Nürnberg,guest,4-1-3-2,DFL-OBJ-J0178P,23,Kwadwo Antwi,Duah,Kwadwo Duah,true,STR,false
+DFL-MAT-J03WPY,DFL-CLU-000005,1. FC Nürnberg,guest,4-1-3-2,DFL-OBJ-0028BZ,33,Christoph,Daferner,C. Daferner,true,STL,false
+DFL-MAT-J03WPY,DFL-CLU-000005,1. FC Nürnberg,guest,4-1-3-2,DFL-OBJ-0028T3,6,Lino,Tempelmann,L. Tempelmann,true,ZO,false
+DFL-MAT-J03WPY,DFL-CLU-000005,1. FC Nürnberg,guest,4-1-3-2,DFL-OBJ-002G68,4,James Alexander,Lawrence,James Lawrence,true,IVL,false
+DFL-MAT-J03WPY,DFL-CLU-000005,1. FC Nürnberg,guest,4-1-3-2,DFL-OBJ-002FYC,15,Fabian,Nürnberger,F. Nürnberger,true,LV,false
+DFL-MAT-J03WPY,DFL-CLU-000005,1. FC Nürnberg,guest,4-1-3-2,DFL-OBJ-002G78,36,Lukas,Schleimer,L. Schleimer,false,STR,false
+DFL-MAT-J03WPY,DFL-CLU-000005,1. FC Nürnberg,guest,4-1-3-2,DFL-OBJ-002GG4,17,Jens,Castrop,J. Castrop,true,ORM,false
+DFL-MAT-J03WPY,DFL-CLU-000005,1. FC Nürnberg,guest,4-1-3-2,DFL-OBJ-002GLC,11,Erik,Shuranov,E. Shuranov,false,,false
+DFL-MAT-J03WPY,DFL-CLU-000005,1. FC Nürnberg,guest,4-1-3-2,DFL-OBJ-J01IUM,34,Bryang William,Kayo,Bryang Kayo,false,,false
+DFL-MAT-J03WPY,DFL-CLU-000005,1. FC Nürnberg,guest,4-1-3-2,DFL-OBJ-J01K2L,3,Sadik,Fofana,S. Fofana,false,DMZ,false
+DFL-MAT-J03WPY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-00008K,28,Rouwen,Hennings,R. Hennings,false,STZ,false
+DFL-MAT-J03WPY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-000170,1,Raphael,Wolf,R. Wolf,false,,false
+DFL-MAT-J03WPY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-0000NZ,25,Matthias Jürgen,Zimmermann,Matthias Zimmermann,true,RV,false
+DFL-MAT-J03WPY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-0000F8,11,Felix,Klaus,F. Klaus,true,ORM,false
+DFL-MAT-J03WPY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-00028V,31,Marcel,Sobottka,M. Sobottka,true,DML,true
+DFL-MAT-J03WPY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-002FXT,9,Dawid Igor,Kownacki,Dawid Kownacki,true,STZ,false
+DFL-MAT-J03WPY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-0026RH,19,Emmanuel,Iyoha,E. Iyoha,true,OLM,false
+DFL-MAT-J03WPY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-0028FW,33,Florian,Kastenmeier,F. Kastenmeier,true,TW,false
+DFL-MAT-J03WPY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-J01CP5,34,Nicolas,Gavory,N. Gavory,false,LV,false
+DFL-MAT-J03WPY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-002G5J,23,Shinta Karl,Appelkamp,Shinta Appelkamp,true,ZO,false
+DFL-MAT-J03WPY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-J01D0C,47,Niko,Vukančić,N. Vukančić,false,,false
+DFL-MAT-J03WPY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-002GMO,15,Tim Christopher,Oberdorf,Tim Oberdorf,true,IVR,false
+DFL-MAT-J03WPY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-002GM1,7,Kristoffer Paul,Peterson,Kristoffer Peterson,false,ORM,false
+DFL-MAT-J03WPY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-002GM9,5,Christoph,Klarer,C. Klarer,true,IVL,false
+DFL-MAT-J03WPY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-J01H9X,4,Ao,Tanaka,A. Tanaka,true,DMR,false
+DFL-MAT-J03WPY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-J01JQC,35,Daniel,Bunk,D. Bunk,false,,false
+DFL-MAT-J03WPY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-J01KJ5,8,Michal,Karbownik,M. Karbownik,true,LV,false
+DFL-MAT-J03WPY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-J01L1F,14,Kwadwo Kyeremeh,Baah,Kwadwo Baah,false,,false
+DFL-MAT-J03WPY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-J01NQ8,46,Elione,Fernandes Neto,E. Fernandes Neto,false,ZO,false
+DFL-MAT-J03WPY,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-2-3-1,DFL-OBJ-J01PRX,45,Tom,Geerkens,T. Geerkens,false,,false
+DFL-MAT-J03WQQ,DFL-CLU-00000P,Fortuna Düsseldorf,home,3-4-1-2,DFL-OBJ-00005H,13,Adam,Bodzek,A. Bodzek,false,DMR,false
+DFL-MAT-J03WQQ,DFL-CLU-00000P,Fortuna Düsseldorf,home,3-4-1-2,DFL-OBJ-00008K,28,Rouwen,Hennings,R. Hennings,true,STR,true
+DFL-MAT-J03WQQ,DFL-CLU-00000P,Fortuna Düsseldorf,home,3-4-1-2,DFL-OBJ-000170,1,Raphael,Wolf,R. Wolf,false,,false
+DFL-MAT-J03WQQ,DFL-CLU-00000P,Fortuna Düsseldorf,home,3-4-1-2,DFL-OBJ-0000NZ,25,Matthias Jürgen,Zimmermann,Matthias Zimmermann,true,IVR,false
+DFL-MAT-J03WQQ,DFL-CLU-00000P,Fortuna Düsseldorf,home,3-4-1-2,DFL-OBJ-00006V,3,André,Hoffmann,A. Hoffmann,false,IVL,false
+DFL-MAT-J03WQQ,DFL-CLU-00000P,Fortuna Düsseldorf,home,3-4-1-2,DFL-OBJ-0000F8,11,Felix,Klaus,F. Klaus,false,RM,false
+DFL-MAT-J03WQQ,DFL-CLU-00000P,Fortuna Düsseldorf,home,3-4-1-2,DFL-OBJ-J0130T,29,Jorrit Petrus Carolina,Hendrix,Jorrit Hendrix,true,DML,false
+DFL-MAT-J03WQQ,DFL-CLU-00000P,Fortuna Düsseldorf,home,3-4-1-2,DFL-OBJ-002FXT,9,Dawid Igor,Kownacki,Dawid Kownacki,true,STL,false
+DFL-MAT-J03WQQ,DFL-CLU-00000P,Fortuna Düsseldorf,home,3-4-1-2,DFL-OBJ-0026RH,19,Emmanuel,Iyoha,E. Iyoha,true,LM,false
+DFL-MAT-J03WQQ,DFL-CLU-00000P,Fortuna Düsseldorf,home,3-4-1-2,DFL-OBJ-0028FW,33,Florian,Kastenmeier,F. Kastenmeier,true,TW,false
+DFL-MAT-J03WQQ,DFL-CLU-00000P,Fortuna Düsseldorf,home,3-4-1-2,DFL-OBJ-002G5J,23,Shinta Karl,Appelkamp,Shinta Appelkamp,true,ZO,false
+DFL-MAT-J03WQQ,DFL-CLU-00000P,Fortuna Düsseldorf,home,3-4-1-2,DFL-OBJ-J01CVM,44,Marcel,Mansfeld,M. Mansfeld,false,,false
+DFL-MAT-J03WQQ,DFL-CLU-00000P,Fortuna Düsseldorf,home,3-4-1-2,DFL-OBJ-002GMO,15,Tim Christopher,Oberdorf,Tim Oberdorf,true,IVL,false
+DFL-MAT-J03WQQ,DFL-CLU-00000P,Fortuna Düsseldorf,home,3-4-1-2,DFL-OBJ-002GM1,7,Kristoffer Paul,Peterson,Kristoffer Peterson,true,RM,false
+DFL-MAT-J03WQQ,DFL-CLU-00000P,Fortuna Düsseldorf,home,3-4-1-2,DFL-OBJ-002GM9,5,Christoph,Klarer,C. Klarer,true,IVZ,false
+DFL-MAT-J03WQQ,DFL-CLU-00000P,Fortuna Düsseldorf,home,3-4-1-2,DFL-OBJ-J01JQC,35,Daniel,Bunk,D. Bunk,false,,false
+DFL-MAT-J03WQQ,DFL-CLU-00000P,Fortuna Düsseldorf,home,3-4-1-2,DFL-OBJ-J01KJ5,8,Michal,Karbownik,M. Karbownik,true,DMR,false
+DFL-MAT-J03WQQ,DFL-CLU-00000P,Fortuna Düsseldorf,home,3-4-1-2,DFL-OBJ-J01L1F,14,Kwadwo Kyeremeh,Baah,Kwadwo Baah,false,STL,false
+DFL-MAT-J03WQQ,DFL-CLU-00000P,Fortuna Düsseldorf,home,3-4-1-2,DFL-OBJ-J01NQ8,46,Elione,Fernandes Neto,E. Fernandes Neto,false,,false
+DFL-MAT-J03WQQ,DFL-CLU-00000P,Fortuna Düsseldorf,home,3-4-1-2,DFL-OBJ-J01OYT,22,Benjamin,Böckle,B. Böckle,false,,false
+DFL-MAT-J03WQQ,DFL-CLU-00000H,FC St. Pauli,guest,3-3-2-2,DFL-OBJ-0000S8,30,Sascha,Burchert,S. Burchert,false,,false
+DFL-MAT-J03WQQ,DFL-CLU-00000H,FC St. Pauli,guest,3-3-2-2,DFL-OBJ-0027W9,19,Luca-Milan,Zander,Luca Zander,false,RV,false
+DFL-MAT-J03WQQ,DFL-CLU-00000H,FC St. Pauli,guest,3-3-2-2,DFL-OBJ-0002EL,23,Leart,Paqarada,L. Paqarada,true,DLM,false
+DFL-MAT-J03WQQ,DFL-CLU-00000H,FC St. Pauli,guest,3-3-2-2,DFL-OBJ-J014L2,7,Jackson Alexander,Irvine,Jackson Irvine,true,HR,true
+DFL-MAT-J03WQQ,DFL-CLU-00000H,FC St. Pauli,guest,3-3-2-2,DFL-OBJ-J0157X,2,Manolis,Saliakas,M. Saliakas,true,DRM,false
+DFL-MAT-J03WQQ,DFL-CLU-00000H,FC St. Pauli,guest,3-3-2-2,DFL-OBJ-0026V5,10,Marcel,Hartel,M. Hartel,true,HL,false
+DFL-MAT-J03WQQ,DFL-CLU-00000H,FC St. Pauli,guest,3-3-2-2,DFL-OBJ-0027AY,11,Johannes,Eggestein,J. Eggestein,false,OLM,false
+DFL-MAT-J03WQQ,DFL-CLU-00000H,FC St. Pauli,guest,3-3-2-2,DFL-OBJ-0027UQ,21,Lars,Ritzka,L. Ritzka,false,,false
+DFL-MAT-J03WQQ,DFL-CLU-00000H,FC St. Pauli,guest,3-3-2-2,DFL-OBJ-0027QN,13,Lukas Stephan Horst,Daschner,Lukas Daschner,true,STR,false
+DFL-MAT-J03WQQ,DFL-CLU-00000H,FC St. Pauli,guest,3-3-2-2,DFL-OBJ-0028HW,27,David,Otto,D. Otto,false,STZ,false
+DFL-MAT-J03WQQ,DFL-CLU-00000H,FC St. Pauli,guest,3-3-2-2,DFL-OBJ-0028LZ,22,Nikola,Vasilj,N. Vasilj,true,TW,false
+DFL-MAT-J03WQQ,DFL-CLU-00000H,FC St. Pauli,guest,3-3-2-2,DFL-OBJ-002FZR,14,Etienne,Amenyido,E. Amenyido,true,STL,false
+DFL-MAT-J03WQQ,DFL-CLU-00000H,FC St. Pauli,guest,3-3-2-2,DFL-OBJ-0028SU,16,Carlo Gregor,Boukhalfa,Carlo Boukhalfa,false,,false
+DFL-MAT-J03WQQ,DFL-CLU-00000H,FC St. Pauli,guest,3-3-2-2,DFL-OBJ-002GND,15,Marcel,Beifus,M. Beifus,false,,false
+DFL-MAT-J03WQQ,DFL-CLU-00000H,FC St. Pauli,guest,3-3-2-2,DFL-OBJ-002GNL,8,Eric Anders,Smith,Eric Smith,true,IVZ,false
+DFL-MAT-J03WQQ,DFL-CLU-00000H,FC St. Pauli,guest,3-3-2-2,DFL-OBJ-002GIY,20,Afeez,Aremu Olalekan,Afeez Aremu,true,DMZ,false
+DFL-MAT-J03WQQ,DFL-CLU-00000H,FC St. Pauli,guest,3-3-2-2,DFL-OBJ-002GMV,34,Igor,Matanović,I. Matanović,false,ORM,false
+DFL-MAT-J03WQQ,DFL-CLU-00000H,FC St. Pauli,guest,3-3-2-2,DFL-OBJ-002GN4,25,Adam,Dźwigała,A. Dźwigała,true,IVR,false
+DFL-MAT-J03WQQ,DFL-CLU-00000H,FC St. Pauli,guest,3-3-2-2,DFL-OBJ-J01HCH,24,Connor Isaac,Metcalfe,Connor Metcalfe,false,ORM,false
+DFL-MAT-J03WQQ,DFL-CLU-00000H,FC St. Pauli,guest,3-3-2-2,DFL-OBJ-J01PRP,5,Betim,Fazliji,B. Fazliji,true,IVL,false
+DFL-MAT-J03WR9,DFL-CLU-00000I,1. FC Kaiserslautern,guest,4-2-3-1,DFL-OBJ-0025YM,28,Mike,Wunderlich,M. Wunderlich,true,ZO,false
+DFL-MAT-J03WR9,DFL-CLU-00000I,1. FC Kaiserslautern,guest,4-2-3-1,DFL-OBJ-00003W,1,Andreas,Luthe,A. Luthe,true,TW,false
+DFL-MAT-J03WR9,DFL-CLU-00000I,1. FC Kaiserslautern,guest,4-2-3-1,DFL-OBJ-0000F9,5,Kevin,Kraus,K. Kraus,false,IVL,false
+DFL-MAT-J03WR9,DFL-CLU-00000I,1. FC Kaiserslautern,guest,4-2-3-1,DFL-OBJ-00017G,10,Philipp,Klement,P. Klement,false,ZO,false
+DFL-MAT-J03WR9,DFL-CLU-00000I,1. FC Kaiserslautern,guest,4-2-3-1,DFL-OBJ-0028PO,31,Ben,Zolinski,B. Zolinski,false,,false
+DFL-MAT-J03WR9,DFL-CLU-00000I,1. FC Kaiserslautern,guest,4-2-3-1,DFL-OBJ-0000YE,13,Terrence Anthony,Boyd,Terrence Boyd,true,STZ,false
+DFL-MAT-J03WR9,DFL-CLU-00000I,1. FC Kaiserslautern,guest,4-2-3-1,DFL-OBJ-00021G,37,Erik,Durm,E. Durm,true,RV,false
+DFL-MAT-J03WR9,DFL-CLU-00000I,1. FC Kaiserslautern,guest,4-2-3-1,DFL-OBJ-00265G,11,Kenny Prince Nebil,Hussein Redondo,Kenny Prince Redondo,true,OLM,false
+DFL-MAT-J03WR9,DFL-CLU-00000I,1. FC Kaiserslautern,guest,4-2-3-1,DFL-OBJ-0001ZY,8,Jean,Zimmer,J. Zimmer,true,ORM,true
+DFL-MAT-J03WR9,DFL-CLU-00000I,1. FC Kaiserslautern,guest,4-2-3-1,DFL-OBJ-0002DT,7,Marlon Maurice,Ritter,Marlon Ritter,true,DMR,false
+DFL-MAT-J03WR9,DFL-CLU-00000I,1. FC Kaiserslautern,guest,4-2-3-1,DFL-OBJ-002G9B,30,Avdo,Spahic,A. Spahic,false,,false
+DFL-MAT-J03WR9,DFL-CLU-00000I,1. FC Kaiserslautern,guest,4-2-3-1,DFL-OBJ-00265D,23,Philipp Maximilian,Hercher,Philipp Hercher,false,,false
+DFL-MAT-J03WR9,DFL-CLU-00000I,1. FC Kaiserslautern,guest,4-2-3-1,DFL-OBJ-0026MI,20,Dominik Friedrich,Schad,Dominik Schad,true,LV,false
+DFL-MAT-J03WR9,DFL-CLU-00000I,1. FC Kaiserslautern,guest,4-2-3-1,DFL-OBJ-0026WW,32,Robin,Bormuth,R. Bormuth,true,IVR,false
+DFL-MAT-J03WR9,DFL-CLU-00000I,1. FC Kaiserslautern,guest,4-2-3-1,DFL-OBJ-0028GO,6,Hikmet,Çiftçi,H. Çiftçi,true,DML,false
+DFL-MAT-J03WR9,DFL-CLU-00000I,1. FC Kaiserslautern,guest,4-2-3-1,DFL-OBJ-002GEO,22,Lars,Bünning,L. Bünning,false,,false
+DFL-MAT-J03WR9,DFL-CLU-00000I,1. FC Kaiserslautern,guest,4-2-3-1,DFL-OBJ-002GPN,2,Boris,Tomiak,B. Tomiak,true,IVL,false
+DFL-MAT-J03WR9,DFL-CLU-00000I,1. FC Kaiserslautern,guest,4-2-3-1,DFL-OBJ-0028G2,25,Aaron,Opoku-Tiawiah,Aaron Opoku,false,ORM,false
+DFL-MAT-J03WR9,DFL-CLU-00000I,1. FC Kaiserslautern,guest,4-2-3-1,DFL-OBJ-002G0F,19,Daniel Patrick,Hanslik,Daniel Hanslik,false,OLM,false
+DFL-MAT-J03WR9,DFL-CLU-00000I,1. FC Kaiserslautern,guest,4-2-3-1,DFL-OBJ-002GPI,27,Lex-Tyger,Lobinger,L. Lobinger,false,STZ,false
+DFL-MAT-J03WR9,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-4-2 Double-6 offensive Outliner,DFL-OBJ-00005H,13,Adam,Bodzek,A. Bodzek,false,,false
+DFL-MAT-J03WR9,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-4-2 Double-6 offensive Outliner,DFL-OBJ-00008K,28,Rouwen,Hennings,R. Hennings,true,STL,false
+DFL-MAT-J03WR9,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-4-2 Double-6 offensive Outliner,DFL-OBJ-000170,1,Raphael,Wolf,R. Wolf,false,,false
+DFL-MAT-J03WR9,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-4-2 Double-6 offensive Outliner,DFL-OBJ-0000NZ,25,Matthias Jürgen,Zimmermann,Matthias Zimmermann,true,RV,false
+DFL-MAT-J03WR9,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-4-2 Double-6 offensive Outliner,DFL-OBJ-00006V,3,André,Hoffmann,A. Hoffmann,false,,false
+DFL-MAT-J03WR9,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-4-2 Double-6 offensive Outliner,DFL-OBJ-0000F8,11,Felix,Klaus,F. Klaus,false,ORM,false
+DFL-MAT-J03WR9,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-4-2 Double-6 offensive Outliner,DFL-OBJ-J0130T,29,Jorrit Petrus Carolina,Hendrix,Jorrit Hendrix,true,DML,false
+DFL-MAT-J03WR9,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-4-2 Double-6 offensive Outliner,DFL-OBJ-00028V,31,Marcel,Sobottka,M. Sobottka,true,DMR,true
+DFL-MAT-J03WR9,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-4-2 Double-6 offensive Outliner,DFL-OBJ-002FXT,9,Dawid Igor,Kownacki,Dawid Kownacki,true,STR,false
+DFL-MAT-J03WR9,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-4-2 Double-6 offensive Outliner,DFL-OBJ-0026RH,19,Emmanuel,Iyoha,E. Iyoha,true,OLM,false
+DFL-MAT-J03WR9,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-4-2 Double-6 offensive Outliner,DFL-OBJ-0028FW,33,Florian,Kastenmeier,F. Kastenmeier,true,TW,false
+DFL-MAT-J03WR9,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-4-2 Double-6 offensive Outliner,DFL-OBJ-002G5J,23,Shinta Karl,Appelkamp,Shinta Appelkamp,false,OLM,false
+DFL-MAT-J03WR9,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-4-2 Double-6 offensive Outliner,DFL-OBJ-J01CVM,44,Marcel,Mansfeld,M. Mansfeld,false,STR,false
+DFL-MAT-J03WR9,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-4-2 Double-6 offensive Outliner,DFL-OBJ-002GMO,15,Tim Christopher,Oberdorf,Tim Oberdorf,true,IVR,false
+DFL-MAT-J03WR9,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-4-2 Double-6 offensive Outliner,DFL-OBJ-002GM1,7,Kristoffer Paul,Peterson,Kristoffer Peterson,true,ORM,false
+DFL-MAT-J03WR9,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-4-2 Double-6 offensive Outliner,DFL-OBJ-002GM9,5,Christoph,Klarer,C. Klarer,true,IVL,false
+DFL-MAT-J03WR9,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-4-2 Double-6 offensive Outliner,DFL-OBJ-J01KJ5,8,Michal,Karbownik,M. Karbownik,true,LV,false
+DFL-MAT-J03WR9,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-4-2 Double-6 offensive Outliner,DFL-OBJ-J01L1F,14,Kwadwo Kyeremeh,Baah,Kwadwo Baah,false,,false
+DFL-MAT-J03WR9,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-4-2 Double-6 offensive Outliner,DFL-OBJ-J01NQ8,46,Elione,Fernandes Neto,E. Fernandes Neto,false,ORM,false
+DFL-MAT-J03WR9,DFL-CLU-00000P,Fortuna Düsseldorf,home,4-4-2 Double-6 offensive Outliner,DFL-OBJ-J01OYT,22,Benjamin,Böckle,B. Böckle,false,,false

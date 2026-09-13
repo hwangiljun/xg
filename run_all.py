@@ -26,6 +26,7 @@ PIPELINE = [
     ("dataset",   "src/build_dataset.py",   ["both"], "공용 피처 -> out/ds_statsbomb.csv, ds_dfl.csv"),
     ("train",     "src/train_v1.py",        [], "v1 학습·평가 -> out/v1_results.csv, v1_oof.csv"),
     ("finetune",  "src/train_v2.py",        [], "v2 DFL 파인튜닝 -> out/v2_results.csv, v2_oof.csv"),
+    ("dfl_only",  "src/train_dfl.py",       [], "DFL 단독 모델 (비교용) -> out/dfl_results.csv"),
 ]
 ANALYSIS = [
     ("features",      "src/features.py",      [], "DFL 트래킹 피처 -> out/features.csv"),

@@ -1,0 +1,9 @@
+# 테스트한 환경: Python 3.12.4 (Windows 11)
+# 숫자까지 똑같이 재현하려면 아래 버전을 그대로 쓰는 게 안전하다.
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+scipy==1.13.1
+matplotlib==3.8.4
+pyarrow==14.0.2
+jupyter
